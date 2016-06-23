@@ -7,3 +7,4 @@ inspiration](https://github.com/jeffkreeftmeijer/wwdc16.terminal)
 Only dark mode so far. Works well with vim default colorscheme.
 
 ![Screen Shot](https://github.com/effkay/iTerm-wwdc16/raw/master/screenshot.png)
+![Screen Shot](https://github.com/effkay/iTerm-wwdc16/raw/master/screenshot-vim.png)
